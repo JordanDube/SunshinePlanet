@@ -1,0 +1,1179 @@
+﻿Log file open, 10/10/20 21:34:21
+LogInit: Display: Running engine for game: SunshinePlanet
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.202439
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: AMD Ryzen 7 2700X Eight-Core Processor         , GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UnrealEngine/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub/SunshinePlanet/SunshinePlanet/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.10.11-01.34.21:723][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.10.11-01.34.21:723][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.10.11-01.34.21:723][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GitHub/SunshinePlanet/SunshinePlanet/Saved/Config/Windows/Engine.ini]
+[2020.10.11-01.34.21:723][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.10.11-01.34.21:723][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.10.11-01.34.21:723][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.10.11-01.34.21:723][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.10.11-01.34.21:723][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.10.11-01.34.21:723][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GitHub/SunshinePlanet/SunshinePlanet/Saved/Config/Windows/Engine.ini]
+[2020.10.11-01.34.21:724][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub/SunshinePlanet/SunshinePlanet/Saved/Config/Windows/Engine.ini]
+[2020.10.11-01.34.21:724][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GitHub/SunshinePlanet/SunshinePlanet/Saved/Config/Windows/Engine.ini]
+[2020.10.11-01.34.21:724][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.10.11-01.34.21:724][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GitHub/SunshinePlanet/SunshinePlanet/Saved/Config/Windows/Engine.ini]
+[2020.10.11-01.34.21:724][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GitHub/SunshinePlanet/SunshinePlanet/Saved/Config/Windows/Engine.ini]
+[2020.10.11-01.34.21:730][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/SunshinePlanet/SunshinePlanet/Saved/Config/Windows/Scalability.ini]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/SunshinePlanet/SunshinePlanet/Saved/Config/Windows/Scalability.ini]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/SunshinePlanet/SunshinePlanet/Saved/Config/Windows/Scalability.ini]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/SunshinePlanet/SunshinePlanet/Saved/Config/Windows/Scalability.ini]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.10.11-01.34.21:730][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/SunshinePlanet/SunshinePlanet/Saved/Config/Windows/Scalability.ini]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/SunshinePlanet/SunshinePlanet/Saved/Config/Windows/Scalability.ini]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/SunshinePlanet/SunshinePlanet/Saved/Config/Windows/Scalability.ini]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub/SunshinePlanet/SunshinePlanet/Saved/Config/Windows/Scalability.ini]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.11-01.34.21:731][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.11-01.34.21:731][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.11-01.34.21:731][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.11-01.34.21:731][  0]LogHAL: Display: Platform has ~ 32 GB [34284802048 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.10.11-01.34.21:731][  0]LogInit: Going up to parent DeviceProfile []
+[2020.10.11-01.34.21:731][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/SunshinePlanet/SunshinePlanet/Saved/Config/Windows/Scalability.ini]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/SunshinePlanet/SunshinePlanet/Saved/Config/Windows/Scalability.ini]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/SunshinePlanet/SunshinePlanet/Saved/Config/Windows/Scalability.ini]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/SunshinePlanet/SunshinePlanet/Saved/Config/Windows/Scalability.ini]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/SunshinePlanet/SunshinePlanet/Saved/Config/Windows/Scalability.ini]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/SunshinePlanet/SunshinePlanet/Saved/Config/Windows/Scalability.ini]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.11-01.34.21:732][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.11-01.34.21:733][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.11-01.34.21:733][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.11-01.34.21:733][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.11-01.34.21:733][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.11-01.34.21:733][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.11-01.34.21:733][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.11-01.34.21:733][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.11-01.34.21:733][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.11-01.34.21:733][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.11-01.34.21:733][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.11-01.34.21:733][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.11-01.34.21:733][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.11-01.34.21:733][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.11-01.34.21:733][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.11-01.34.21:733][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.11-01.34.21:733][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.11-01.34.21:733][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/SunshinePlanet/SunshinePlanet/Saved/Config/Windows/Scalability.ini]
+[2020.10.11-01.34.21:733][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.11-01.34.21:733][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.11-01.34.21:733][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub/SunshinePlanet/SunshinePlanet/Saved/Config/Windows/Scalability.ini]
+[2020.10.11-01.34.21:733][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.11-01.34.21:733][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.11-01.34.21:733][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.11-01.34.21:733][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.11-01.34.21:733][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.11-01.34.21:733][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.11-01.34.21:733][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.11-01.34.21:733][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.10.11-01.34.21:733][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.10.11-01.34.21:733][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.10.11-01.34.21:733][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.10.11-01.34.21:733][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitHub/SunshinePlanet/SunshinePlanet/Saved/Config/Windows/Engine.ini]
+[2020.10.11-01.34.21:733][  0]LogInit: Computer: DESKTOP-O4LOH7J
+[2020.10.11-01.34.21:733][  0]LogInit: User: jorda
+[2020.10.11-01.34.21:733][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.10.11-01.34.21:733][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.11-01.34.21:733][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.10.11-01.34.21:733][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.11-01.34.21:733][  0]LogMemory: Process Physical Memory: 122.47 MB used, 122.47 MB peak
+[2020.10.11-01.34.21:733][  0]LogMemory: Process Virtual Memory: 104.13 MB used, 104.13 MB peak
+[2020.10.11-01.34.21:733][  0]LogMemory: Physical Memory: 11297.70 MB used,  21398.84 MB free, 32696.54 MB total
+[2020.10.11-01.34.21:733][  0]LogMemory: Virtual Memory: 5233.23 MB used,  134212496.00 MB free, 134217728.00 MB total
+[2020.10.11-01.34.21:736][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.10.11-01.34.21:783][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.10.11-01.34.21:785][  0]LogInit: Using OS detected language (en-US).
+[2020.10.11-01.34.21:785][  0]LogInit: Using OS detected locale (en-US).
+[2020.10.11-01.34.21:792][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.10.11-01.34.22:104][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.11-01.34.22:145][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.11-01.34.22:145][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.11-01.34.22:425][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.10.11-01.34.22:425][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.10.11-01.34.22:425][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.11-01.34.22:502][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2020.10.11-01.34.22:503][  0]LogD3D11RHI:       8031/0/16348 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.10.11-01.34.22:506][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.11-01.34.22:506][  0]LogD3D11RHI:       0/0/16348 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.11-01.34.22:506][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.11-01.34.22:516][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.11-01.34.22:517][  0]LogD3D11RHI:     GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.11-01.34.22:517][  0]LogWindows: EnumDisplayDevices:
+[2020.10.11-01.34.22:517][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
+[2020.10.11-01.34.22:517][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+[2020.10.11-01.34.22:517][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.10.11-01.34.22:517][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.10.11-01.34.22:518][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.10.11-01.34.22:518][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2020.10.11-01.34.22:518][  0]LogD3D11RHI:   Driver Version: 446.14 (internal:26.21.14.4614, unified:446.14)
+[2020.10.11-01.34.22:518][  0]LogD3D11RHI:      Driver Date: 5-15-2020
+[2020.10.11-01.34.22:518][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2020.10.11-01.34.22:581][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.10.11-01.34.22:583][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.10.11-01.34.22:583][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.11-01.34.22:583][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.10.11-01.34.22:605][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.10.11-01.34.23:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.10.11-01.34.23:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.10.11-01.34.23:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.10.11-01.34.23:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.10.11-01.34.23:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.10.11-01.34.23:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.10.11-01.34.23:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.10.11-01.34.23:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.10.11-01.34.23:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.10.11-01.34.23:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.10.11-01.34.23:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.10.11-01.34.23:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.10.11-01.34.23:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.10.11-01.34.23:105][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.10.11-01.34.23:116][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.10.11-01.34.23:126][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.10.11-01.34.23:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.10.11-01.34.23:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.10.11-01.34.23:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.10.11-01.34.23:170][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.10.11-01.34.23:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.10.11-01.34.23:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.10.11-01.34.23:215][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.10.11-01.34.23:215][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.10.11-01.34.23:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.10.11-01.34.23:237][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.10.11-01.34.23:248][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.10.11-01.34.23:259][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.10.11-01.34.23:259][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.11-01.34.23:271][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.10.11-01.34.23:350][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../GitHub/SunshinePlanet/SunshinePlanet/Intermediate/Shaders/WorkingDirectory/7468/).
+[2020.10.11-01.34.23:351][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jorda/AppData/Local/Temp/UnrealShaderWorkingDir/BE584156458EE1DC5095DCA807D715AB/'.
+[2020.10.11-01.34.23:352][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.10.11-01.34.23:352][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.10.11-01.34.23:352][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.11-01.34.24:306][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.11-01.34.24:419][  0]LogDerivedDataCache: Loaded boot cache 0.11s 92MB C:/Users/jorda/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.11-01.34.24:419][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jorda/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.10.11-01.34.24:419][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitHub/SunshinePlanet/SunshinePlanet/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.11-01.34.24:419][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.11-01.34.24:419][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitHub/SunshinePlanet/SunshinePlanet/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.11-01.34.24:419][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.11-01.34.24:430][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.11-01.34.24:430][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.11-01.34.24:430][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.10.11-01.34.24:432][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jorda/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.11-01.34.24:432][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.11-01.34.24:432][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.11-01.34.24:486][  0]LogSlate: Using FreeType 2.10.0
+[2020.10.11-01.34.24:488][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.11-01.34.24:513][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2020.10.11-01.34.24:779][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.11-01.34.24:905][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.11-01.34.24:905][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.10.11-01.34.24:905][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.10.11-01.34.24:905][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.10.11-01.34.24:905][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.10.11-01.34.24:925][  0]LogNetVersion: SunshinePlanet 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 675297403)
+[2020.10.11-01.34.25:504][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000015137C0DBC0), frame # 0
+[2020.10.11-01.34.25:504][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015137B47B00), frame # 0
+[2020.10.11-01.34.25:505][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015137B57000), frame # 0
+[2020.10.11-01.34.25:557][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.044516 seconds
+[2020.10.11-01.34.25:563][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.10.11-01.34.25:563][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.10.11-01.34.25:563][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.11-01.34.26:018][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.11-01.34.26:037][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.11-01.34.26:137][  0]SourceControl: Source control is disabled
+[2020.10.11-01.34.26:137][  0]SourceControl: Source control is disabled
+[2020.10.11-01.34.26:143][  0]SourceControl: Source control is disabled
+[2020.10.11-01.34.26:147][  0]SourceControl: Source control is disabled
+[2020.10.11-01.34.26:158][  0]SourceControl: Source control is disabled
+[2020.10.11-01.34.26:474][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.11-01.34.26:500][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.11-01.34.26:500][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.11-01.34.26:562][  0]LogOcInput: OculusInput pre-init called
+[2020.10.11-01.34.26:806][  0]LogEngine: Initializing Engine...
+[2020.10.11-01.34.26:808][  0]LogHMD: Oculus plugin initialized. Version: 4.25.3-13942748+++UE4+Release-4.25, OVRPlugin: 1.44.0
+[2020.10.11-01.34.26:808][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.10.11-01.34.26:954][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.10.11-01.34.26:964][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.11-01.34.26:964][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000151421CFC00), frame # 0
+[2020.10.11-01.34.26:964][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000151421D7B00), frame # 0
+[2020.10.11-01.34.26:978][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.11-01.34.26:978][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.11-01.34.26:978][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.11-01.34.26:978][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.11-01.34.26:978][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.11-01.34.26:978][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.11-01.34.26:978][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.11-01.34.26:978][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.11-01.34.26:978][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.11-01.34.26:978][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.11-01.34.26:990][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.11-01.34.26:990][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.10.11-01.34.27:033][  0]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.10.11-01.34.27:035][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.11-01.34.27:037][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.11-01.34.27:037][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.11-01.34.27:038][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.11-01.34.27:039][  0]LogInit: FAudioDevice initialized.
+[2020.10.11-01.34.27:040][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.10.11-01.34.27:113][  0]LogDerivedDataCache: Saved boot cache 0.07s 80MB C:/Users/jorda/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.11-01.34.27:118][  0]LogInit: Texture streaming: Enabled
+[2020.10.11-01.34.27:150][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.11-01.34.27:150][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.10.11-01.34.27:151][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.10.11-01.34.27:218][  0]LogInit: Transaction tracking system initialized
+[2020.10.11-01.34.27:250][  0]BlueprintLog: New page: Editor Load
+[2020.10.11-01.34.27:345][  0]LocalizationService: Localization service is disabled
+[2020.10.11-01.34.27:535][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.11-01.34.27:535][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.11-01.34.27:694][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/SunshinePlanet/SunshinePlanet/Content/' took 0.00s
+[2020.10.11-01.34.27:876][  0]SourceControl: Source control is disabled
+[2020.10.11-01.34.27:876][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.060
+[2020.10.11-01.34.27:876][  0]Cmd: MAP LOAD FILE="../../../../../GitHub/SunshinePlanet/SunshinePlanet/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.11-01.34.27:877][  0]LightingResults: New page: Lighting Build
+[2020.10.11-01.34.27:878][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.10.11-01.34.27:878][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.11-01.34.27:878][  0]MapCheck: New page: Map Check
+[2020.10.11-01.34.27:878][  0]LightingResults: New page: Lighting Build
+[2020.10.11-01.34.27:915][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000151421CFC00), frame # 0
+[2020.10.11-01.34.27:915][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000151421D7B00), frame # 0
+[2020.10.11-01.34.27:916][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.10.11-01.34.27:977][  0]LogAIModule: Creating AISystem for world StartupMap
+[2020.10.11-01.34.27:977][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015127111800), frame # 0
+[2020.10.11-01.34.27:977][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001512714F100), frame # 0
+[2020.10.11-01.34.27:982][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.11-01.34.27:997][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.10.11-01.34.27:997][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.11-01.34.27:997][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.194ms to complete.
+[2020.10.11-01.34.27:997][  0]LogFileHelpers: Loading map 'StartupMap' took 0.122
+[2020.10.11-01.34.28:000][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.184
+[2020.10.11-01.34.28:115][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.11-01.34.28:123][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.11-01.34.28:131][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.11-01.34.28:139][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.11-01.34.28:147][  0]LogCollectionManager: Loaded 0 collections in 0.001043 seconds
+[2020.10.11-01.34.28:164][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/SunshinePlanet/SunshinePlanet/Saved/Collections/' took 0.00s
+[2020.10.11-01.34.28:164][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/SunshinePlanet/SunshinePlanet/Content/Developers/jorda/Collections/' took 0.00s
+[2020.10.11-01.34.28:164][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/SunshinePlanet/SunshinePlanet/Content/Collections/' took 0.00s
+[2020.10.11-01.34.28:164][  0]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 3427 classes and 821 folders.
+[2020.10.11-01.34.28:168][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.11-01.34.28:349][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.11-01.34.28:353][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2020.10.11-01.34.28:388][  0]LogSlate: Took 0.000814 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.11-01.34.28:390][  0]LogSlate: Took 0.000756 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.11-01.34.28:396][  0]LogSlate: Took 0.000947 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.11-01.34.28:469][  0]LogRenderer: Reallocating scene render targets to support 1720x808 Format 26 NumSamples 1 (Frame:1).
+[2020.10.11-01.34.28:553][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.11-01.34.28:553][  0]LogLoad: (Engine Initialization) Total time: 9.74 seconds
+[2020.10.11-01.34.28:553][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.11-01.34.28:564][  0]LogOcInput: OculusInput is initialized
+[2020.10.11-01.34.28:591][  0]LogAssetRegistry: Asset discovery search completed in 4.0784 seconds
+[2020.10.11-01.34.28:595][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.10.11-01.34.28:597][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.11-01.35.01:954][707]LogSlate: Window 'New Level' being destroyed
+[2020.10.11-01.35.01:963][707]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/VR-Basic.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.11-01.35.01:968][707]LogSlate: Took 0.000836 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.11-01.35.01:981][707]LightingResults: New page: Lighting Build
+[2020.10.11-01.35.01:982][707]LoadErrors: New page: Loading map: VR-Basic.umap
+[2020.10.11-01.35.01:983][707]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.11-01.35.01:983][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.11-01.35.01:983][707]MapCheck: New page: Map Check
+[2020.10.11-01.35.01:983][707]LightingResults: New page: Lighting Build
+[2020.10.11-01.35.02:017][707]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015127111800), frame # 3707
+[2020.10.11-01.35.02:017][707]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001512714F100), frame # 3707
+[2020.10.11-01.35.02:019][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.10.11-01.35.02:143][707]LogAIModule: Creating AISystem for world Untitled_1
+[2020.10.11-01.35.02:143][707]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015141C28200), frame # 3707
+[2020.10.11-01.35.02:143][707]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015126257EC0), frame # 3707
+[2020.10.11-01.35.02:145][707]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.11-01.35.02:162][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.10.11-01.35.02:174][707]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.11-01.35.02:174][707]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.146ms to complete.
+[2020.10.11-01.35.02:174][707]LogFileHelpers: Loading map 'VR-Basic' took 0.213
+[2020.10.11-01.35.08:930][495]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.11-01.35.27:261][495]LogSlate: Window 'Save Level As' being destroyed
+[2020.10.11-01.35.27:298][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/BarScene" FILE="../../../../../GitHub/SunshinePlanet/SunshinePlanet/Content/Levels/BarScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.11-01.35.27:314][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.10.11-01.35.27:345][495]LogSavePackage: Moving '../../../../../GitHub/SunshinePlanet/SunshinePlanet/Saved/BarScene4BE57D8D4A2313A36FCD4698CB9C5379.tmp' to '../../../../../GitHub/SunshinePlanet/SunshinePlanet/Content/Levels/BarScene.umap'
+[2020.10.11-01.35.27:380][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/BarScene_BuiltData" FILE="../../../../../GitHub/SunshinePlanet/SunshinePlanet/Content/Levels/BarScene_BuiltData.uasset" SILENT=true
+[2020.10.11-01.35.27:385][495]LogSavePackage: Moving '../../../../../GitHub/SunshinePlanet/SunshinePlanet/Saved/BarScene_BuiltData47739E264002D6CE7A7499B5B76A9E12.tmp' to '../../../../../GitHub/SunshinePlanet/SunshinePlanet/Content/Levels/BarScene_BuiltData.uasset'
+[2020.10.11-01.35.27:400][495]LogFileHelpers: Saving map 'BarScene' took 0.129
+[2020.10.11-01.35.27:401][495]Cmd: MAP LOAD FILE="../../../../../GitHub/SunshinePlanet/SunshinePlanet/Content/Levels/BarScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.11-01.35.27:415][495]LightingResults: New page: Lighting Build
+[2020.10.11-01.35.27:416][495]LoadErrors: New page: Loading map: BarScene.umap
+[2020.10.11-01.35.27:417][495]LogWorld: UWorld::CleanupWorld for BarScene, bSessionEnded=true, bCleanupResources=true
+[2020.10.11-01.35.27:417][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.11-01.35.27:417][495]MapCheck: New page: Map Check
+[2020.10.11-01.35.27:417][495]LightingResults: New page: Lighting Build
+[2020.10.11-01.35.27:431][495]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015141C28200), frame # 4495
+[2020.10.11-01.35.27:431][495]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000015126257EC0), frame # 4495
+[2020.10.11-01.35.27:432][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.10.11-01.35.27:440][495]LogAIModule: Creating AISystem for world BarScene
+[2020.10.11-01.35.27:440][495]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000151270D2400), frame # 4495
+[2020.10.11-01.35.27:440][495]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015126256AC0), frame # 4495
+[2020.10.11-01.35.27:443][495]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.11-01.35.27:458][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.10.11-01.35.27:489][495]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.11-01.35.27:490][495]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.106ms to complete.
+[2020.10.11-01.35.27:490][495]LogFileHelpers: Loading map 'BarScene' took 0.090
+[2020.10.11-01.35.27:494][495]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.11-01.35.27:494][495]LogContentValidation: Display: Validating World /Game/Levels/BarScene.BarScene
+[2020.10.11-01.35.27:494][495]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/BarScene_BuiltData.BarScene_BuiltData
+[2020.10.11-01.35.45:768][369]LogSlate: Window 'Entering VR Mode - Experimental' being destroyed
+[2020.10.11-01.35.45:932][369]LogMaterial: Display: Missing cached shader map for material SnapGridMaterial, compiling. 
+[2020.10.11-01.35.47:145][369]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 22
+[2020.10.11-01.35.47:145][369]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2020.10.11-01.35.47:145][369]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 18
+[2020.10.11-01.35.47:145][369]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 16
+[2020.10.11-01.35.47:145][369]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 14
+[2020.10.11-01.35.47:145][369]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2020.10.11-01.35.47:145][369]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2020.10.11-01.35.47:145][369]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 8
+[2020.10.11-01.35.47:145][369]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2020.10.11-01.35.47:145][369]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2020.10.11-01.35.47:145][369]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2020.10.11-01.35.47:145][369]LogMaterial: Display: Missing cached shader map for material GridMaterial, compiling. 
+[2020.10.11-01.35.47:153][369]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 10
+[2020.10.11-01.35.47:153][369]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2020.10.11-01.35.47:153][369]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2020.10.11-01.35.47:153][369]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2020.10.11-01.35.47:153][369]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2020.10.11-01.35.47:153][369]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 5
+[2020.10.11-01.35.47:154][369]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2020.10.11-01.35.47:154][369]LogMaterial: Display: Missing cached shader map for material VRTextMaterial, compiling. 
+[2020.10.11-01.35.47:181][369]LogMaterial: Display: Missing cached shader map for material LineMaterial, compiling. 
+[2020.10.11-01.35.47:233][369]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 30
+[2020.10.11-01.35.47:233][369]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 27
+[2020.10.11-01.35.47:233][369]LogMaterial: Display: Missing cached shader map for material GenericHMDMaterial, compiling. 
+[2020.10.11-01.35.47:279][369]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 24
+[2020.10.11-01.35.47:279][369]LogMaterial: Display: Missing cached shader map for material TeleportDirectionMaterial, compiling. 
+[2020.10.11-01.35.47:327][369]LogMaterial: Display: Missing cached shader map for material LaserPointerMaterial, compiling. 
+[2020.10.11-01.35.47:335][369]LogMaterial: Display: Missing cached shader map for material LaserPointerMaterial, compiling. 
+[2020.10.11-01.35.47:357][369]LogMaterial: Display: Missing cached shader map for material VRTextMaterial, compiling. 
+[2020.10.11-01.35.47:371][369]LogMaterial: Display: Missing cached shader map for material VivePreControllerMaterial, compiling. 
+[2020.10.11-01.35.47:392][369]LogMaterial: Display: Missing cached shader map for material OculusControllerMaterial, compiling. 
+[2020.10.11-01.35.47:412][369]LogMaterial: Display: Missing cached shader map for material GridPostProcess, compiling. 
+[2020.10.11-01.35.47:450][369]LogMaterial: Display: Missing cached shader map for material FlattenHeightMat, compiling. 
+[2020.10.11-01.35.47:469][369]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 134
+[2020.10.11-01.35.47:469][369]LogMaterial: Display: Missing cached shader map for material ArrowMaterial, compiling. 
+[2020.10.11-01.35.47:569][369]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 167
+[2020.10.11-01.35.47:569][369]LogMaterial: Display: Missing cached shader map for material KeyDiskMaterial, compiling. 
+[2020.10.11-01.35.47:613][369]LogMaterial: Display: Missing cached shader map for material M_ContentWindow, compiling. 
+[2020.10.11-01.35.47:832][369]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 167
+[2020.10.11-01.35.47:832][369]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 189
+[2020.10.11-01.35.47:832][369]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 179
+[2020.10.11-01.35.47:832][369]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 169
+[2020.10.11-01.35.47:832][369]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 159
+[2020.10.11-01.35.47:832][369]LogHMD: Initializing OVRPlugin session
+[2020.10.11-01.35.48:762][369]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 149
+[2020.10.11-01.35.48:763][369]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 139
+[2020.10.11-01.35.48:763][369]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 129
+[2020.10.11-01.35.48:776][369]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.10.11-01.35.48:864][369]LogRenderer: Warning: Resizing VR buffer to 3296 by 1776
+[2020.10.11-01.35.48:864][369]LogRenderer: Reallocating scene render targets to support 3296x1776 Format 26 NumSamples 1 (Frame:864).
+[2020.10.11-01.35.48:864][369]LogHMD: Allocating Oculus 3296 x 1776 depth rendertarget swapchain
+[2020.10.11-01.35.48:891][369]LogSlate: Window 'Sequencer' being destroyed
+[2020.10.11-01.35.49:188][369]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 119
+[2020.10.11-01.35.49:188][369]LogEngine: Changing dynamic resolution state.
+[2020.10.11-01.35.49:487][388]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 109
+[2020.10.11-01.35.51:307][510]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 99
+[2020.10.11-01.35.55:352][803]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 90
+[2020.10.11-01.35.55:403][805]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 82
+[2020.10.11-01.35.55:483][809]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 75
+[2020.10.11-01.35.55:957][844]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 68
+[2020.10.11-01.35.56:416][882]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 62
+[2020.10.11-01.35.56:872][918]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 56
+[2020.10.11-01.35.57:648][971]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 51
+[2020.10.11-01.35.58:375][ 10]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 46
+[2020.10.11-01.35.58:817][ 37]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 42
+[2020.10.11-01.35.59:474][ 82]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 38
+[2020.10.11-01.35.59:792][106]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 34
+[2020.10.11-01.35.59:829][107]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 31
+[2020.10.11-01.36.01:175][201]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 28
+[2020.10.11-01.36.01:335][213]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 25
+[2020.10.11-01.36.01:637][235]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 22
+[2020.10.11-01.36.01:671][238]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 20
+[2020.10.11-01.36.01:871][253]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 18
+[2020.10.11-01.36.02:800][324]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 16
+[2020.10.11-01.36.02:836][326]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 14
+[2020.10.11-01.36.03:363][367]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 12
+[2020.10.11-01.36.03:494][375]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 10
+[2020.10.11-01.36.03:567][378]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2020.10.11-01.36.03:745][392]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2020.10.11-01.36.04:151][426]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2020.10.11-01.36.04:329][441]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2020.10.11-01.36.04:578][461]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 5
+[2020.10.11-01.36.04:610][464]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2020.10.11-01.36.04:674][469]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2020.10.11-01.36.04:808][480]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2020.10.11-01.36.04:902][487]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2020.10.11-01.36.35:131][882]Cmd: VI.ActorSnap 1
+[2020.10.11-01.36.35:136][882]VI.ActorSnap = "1"
+[2020.10.11-01.38.18:343][130]Cmd: TRANSACTION REDO
+[2020.10.11-01.38.55:568][105]Cmd: VI.ActorSnap 0
+[2020.10.11-01.38.55:568][105]VI.ActorSnap = "0"
+[2020.10.11-01.38.56:443][175]Cmd: VI.ActorSnap 1
+[2020.10.11-01.38.56:443][175]VI.ActorSnap = "1"
+[2020.10.11-01.39.00:293][483]Cmd: VI.ActorSnap 0
+[2020.10.11-01.39.00:293][483]VI.ActorSnap = "0"
+[2020.10.11-01.39.02:794][683]Cmd: VI.ActorSnap 1
+[2020.10.11-01.39.02:794][683]VI.ActorSnap = "1"
+[2020.10.11-01.41.58:292][700]Cmd: DELETE
+[2020.10.11-01.41.58:292][700]Cmd: ACTOR DELETE
+[2020.10.11-01.41.58:319][700]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.11-01.41.58:338][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.10.11-01.41.58:343][700]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2020.10.11-01.43.30:267][ 44]Cmd: DELETE
+[2020.10.11-01.43.30:267][ 44]Cmd: ACTOR DELETE
+[2020.10.11-01.43.30:271][ 44]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.11-01.43.30:284][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.10.11-01.43.30:286][ 44]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.10.11-01.43.32:152][192]Cmd: DELETE
+[2020.10.11-01.43.32:152][192]Cmd: ACTOR DELETE
+[2020.10.11-01.43.32:155][192]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.11-01.43.32:168][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.10.11-01.43.32:170][192]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.10.11-01.43.33:702][313]Cmd: DELETE
+[2020.10.11-01.43.33:702][313]Cmd: ACTOR DELETE
+[2020.10.11-01.43.33:705][313]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.11-01.43.33:718][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.10.11-01.43.33:720][313]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.11-01.43.34:450][370]Cmd: DELETE
+[2020.10.11-01.43.34:450][370]Cmd: ACTOR DELETE
+[2020.10.11-01.43.34:453][370]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.11-01.43.34:466][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.10.11-01.43.34:467][370]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.11-01.43.36:026][493]Cmd: DELETE
+[2020.10.11-01.43.36:026][493]Cmd: ACTOR DELETE
+[2020.10.11-01.43.36:029][493]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.11-01.43.36:042][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.10.11-01.43.36:043][493]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.11-01.43.36:837][555]Cmd: DELETE
+[2020.10.11-01.43.36:837][555]Cmd: ACTOR DELETE
+[2020.10.11-01.43.36:840][555]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.11-01.43.36:852][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.10.11-01.43.36:854][555]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.11-01.43.37:462][602]Cmd: DELETE
+[2020.10.11-01.43.37:462][602]Cmd: ACTOR DELETE
+[2020.10.11-01.43.37:465][602]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.11-01.43.37:478][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.10.11-01.43.37:480][602]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.10.11-01.43.38:198][658]Cmd: DELETE
+[2020.10.11-01.43.38:198][658]Cmd: ACTOR DELETE
+[2020.10.11-01.43.38:201][658]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.11-01.43.38:215][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.10.11-01.43.38:216][658]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.10.11-01.43.39:024][721]Cmd: DELETE
+[2020.10.11-01.43.39:024][721]Cmd: ACTOR DELETE
+[2020.10.11-01.43.39:027][721]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.11-01.43.39:040][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.10.11-01.43.39:041][721]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.11-01.43.39:674][770]Cmd: DELETE
+[2020.10.11-01.43.39:674][770]Cmd: ACTOR DELETE
+[2020.10.11-01.43.39:677][770]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.11-01.43.39:691][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.10.11-01.43.39:692][770]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.10.11-01.43.49:342][539]Cmd: DELETE
+[2020.10.11-01.43.49:342][539]Cmd: ACTOR DELETE
+[2020.10.11-01.43.49:345][539]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.11-01.43.49:359][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.10.11-01.43.49:361][539]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.10.11-01.43.50:727][647]Cmd: DELETE
+[2020.10.11-01.43.50:727][647]Cmd: ACTOR DELETE
+[2020.10.11-01.43.50:730][647]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.11-01.43.50:743][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.10.11-01.43.50:745][647]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.11-01.43.51:476][704]Cmd: DELETE
+[2020.10.11-01.43.51:476][704]Cmd: ACTOR DELETE
+[2020.10.11-01.43.51:479][704]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.11-01.43.51:493][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.10.11-01.43.51:495][704]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.10.11-01.43.52:087][750]Cmd: DELETE
+[2020.10.11-01.43.52:087][750]Cmd: ACTOR DELETE
+[2020.10.11-01.43.52:089][750]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.11-01.43.52:103][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.10.11-01.43.52:105][750]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.10.11-01.45.01:748][317]Cmd: MODE GRID=0
+[2020.10.11-01.45.05:468][613]Cmd: VI.ActorSnap 0
+[2020.10.11-01.45.05:468][613]VI.ActorSnap = "0"
+[2020.10.11-01.45.07:080][742]Cmd: VI.ActorSnap 1
+[2020.10.11-01.45.07:081][742]VI.ActorSnap = "1"
+[2020.10.11-01.45.08:443][851]Cmd: MODE GRID=1
+[2020.10.11-01.46.49:517][911]LogEngine: Changing dynamic resolution state.
+[2020.10.11-01.47.18:225][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.10.11-01.47.18:233][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/BarScene" FILE="../../../../../GitHub/SunshinePlanet/SunshinePlanet/Saved/Autosaves/Game/Levels/BarScene_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.10.11-01.47.18:262][570]LogSavePackage: Moving '../../../../../GitHub/SunshinePlanet/SunshinePlanet/Saved/BarScene_Auto182A5E9D0495097BE8744B3A9D82B5DD8.tmp' to '../../../../../GitHub/SunshinePlanet/SunshinePlanet/Saved/Autosaves/Game/Levels/BarScene_Auto1.umap'
+[2020.10.11-01.47.18:266][570]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/BarScene' took 0.059
+[2020.10.11-01.47.18:266][570]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.059
+[2020.10.11-01.57.18:486][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.10.11-01.57.18:489][ 89]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/BarScene' took 0.016
+[2020.10.11-02.07.18:370][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.10.11-02.07.18:374][ 38]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/BarScene' took 0.017
+[2020.10.11-02.14.43:258][415]LogDialogs: Warning: Suppressed: VR Mode enables you to work on your project in virtual reality using motion controllers. This feature is still under development, so you may experience bugs or crashes while using it.
+[2020.10.11-02.14.43:261][415]LogHMD: Initializing OVRPlugin session
+[2020.10.11-02.14.43:568][415]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.10.11-02.14.43:608][415]LogHMD: Allocating Oculus 3296 x 1776 depth rendertarget swapchain
+[2020.10.11-02.14.43:615][415]LogSlate: Window 'Sequencer' being destroyed
+[2020.10.11-02.14.43:690][415]LogEngine: Changing dynamic resolution state.
+[2020.10.11-02.17.54:286][678]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.10.11-02.18.29:419][487]Cmd: TRANSACTION REDO
+[2020.10.11-02.19.07:481][521]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/BarScene.BarScene:PersistentLevel.ModelComponent_0' invalid (48 verts, 0 indices).
+[2020.10.11-02.19.07:481][521]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/BarScene.BarScene:PersistentLevel.ModelComponent_0.BodySetup_0 when we are unable to.
+[2020.10.11-02.19.07:481][521]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/BarScene.BarScene:PersistentLevel.ModelComponent_1' invalid (48 verts, 0 indices).
+[2020.10.11-02.19.07:481][521]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/BarScene.BarScene:PersistentLevel.ModelComponent_1.BodySetup_0 when we are unable to.
+[2020.10.11-02.19.48:636][813]LogActorFactory: Actor Factory created Cylinder
+[2020.10.11-02.19.48:644][813]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.10.11-02.19.48:720][814]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 68
+[2020.10.11-02.19.48:720][814]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 62
+[2020.10.11-02.19.48:720][814]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 56
+[2020.10.11-02.19.48:720][814]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 50
+[2020.10.11-02.19.48:720][814]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 44
+[2020.10.11-02.19.48:720][814]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 38
+[2020.10.11-02.19.48:720][814]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 32
+[2020.10.11-02.19.48:721][814]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 26
+[2020.10.11-02.19.48:721][814]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 20
+[2020.10.11-02.19.48:721][814]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 14
+[2020.10.11-02.19.48:721][814]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2020.10.11-02.19.48:721][814]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2020.10.11-02.19.54:650][147]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.TopCenterTopCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.19.54:655][147]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.TopCenterTopCenter' 
+[2020.10.11-02.19.54:655][147]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.RightCenterRightCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.19.54:655][147]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.RightCenterRightCenter' 
+[2020.10.11-02.19.54:655][147]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.FrontCenterFrontCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.19.54:655][147]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.FrontCenterFrontCenter' 
+[2020.10.11-02.19.54:655][147]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.TopCenterTopCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.19.54:655][147]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.TopCenterTopCenter' 
+[2020.10.11-02.19.54:655][147]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.RightCenterRightCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.19.54:655][147]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.RightCenterRightCenter' 
+[2020.10.11-02.19.54:656][147]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.FrontCenterFrontCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.19.54:656][147]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.FrontCenterFrontCenter' 
+[2020.10.11-02.22.46:065][831]Cmd: DELETE
+[2020.10.11-02.22.46:065][831]Cmd: ACTOR DELETE
+[2020.10.11-02.22.46:072][831]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.11-02.22.46:090][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.10.11-02.22.46:093][831]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.10.11-02.22.58:582][829]LogActorFactory: Actor Factory created Cylinder
+[2020.10.11-02.23.02:505][140]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.TopCenterTopCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.23.02:505][140]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.TopCenterTopCenter' 
+[2020.10.11-02.23.02:505][140]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.RightCenterRightCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.23.02:505][140]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.RightCenterRightCenter' 
+[2020.10.11-02.23.02:505][140]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.FrontCenterFrontCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.23.02:505][140]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.FrontCenterFrontCenter' 
+[2020.10.11-02.23.02:505][140]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.TopCenterTopCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.23.02:505][140]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.TopCenterTopCenter' 
+[2020.10.11-02.23.02:505][140]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.RightCenterRightCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.23.02:506][140]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.RightCenterRightCenter' 
+[2020.10.11-02.23.02:506][140]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.FrontCenterFrontCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.23.02:506][140]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.FrontCenterFrontCenter' 
+[2020.10.11-02.23.54:332][285]LogActorFactory: Actor Factory created Cube
+[2020.10.11-02.23.56:029][418]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.TopCenterTopCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.23.56:030][418]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.TopCenterTopCenter' 
+[2020.10.11-02.23.56:030][418]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.RightCenterRightCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.23.56:030][418]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.RightCenterRightCenter' 
+[2020.10.11-02.23.56:030][418]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.FrontCenterFrontCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.23.56:030][418]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.FrontCenterFrontCenter' 
+[2020.10.11-02.23.56:030][418]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.TopCenterTopCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.23.56:030][418]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.TopCenterTopCenter' 
+[2020.10.11-02.23.56:030][418]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.RightCenterRightCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.23.56:030][418]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.RightCenterRightCenter' 
+[2020.10.11-02.23.56:030][418]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.FrontCenterFrontCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.23.56:030][418]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.FrontCenterFrontCenter' 
+[2020.10.11-02.27.44:169][635]LogActorFactory: Actor Factory created Cylinder
+[2020.10.11-02.27.53:956][414]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.TopCenterTopCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.27.53:956][414]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.TopCenterTopCenter' 
+[2020.10.11-02.27.53:956][414]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.RightCenterRightCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.27.53:956][414]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.RightCenterRightCenter' 
+[2020.10.11-02.27.53:956][414]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.FrontCenterFrontCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.27.53:956][414]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.FrontCenterFrontCenter' 
+[2020.10.11-02.27.53:956][414]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.TopCenterTopCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.27.53:956][414]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.TopCenterTopCenter' 
+[2020.10.11-02.27.53:956][414]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.RightCenterRightCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.27.53:956][414]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.RightCenterRightCenter' 
+[2020.10.11-02.27.53:956][414]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.FrontCenterFrontCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.27.53:956][414]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.FrontCenterFrontCenter' 
+[2020.10.11-02.29.46:865][430]Cmd: DUPLICATE
+[2020.10.11-02.29.46:865][430]Cmd: ACTOR DUPLICATE
+[2020.10.11-02.29.57:442][272]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.TopCenterTopCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.29.57:442][272]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.TopCenterTopCenter' 
+[2020.10.11-02.29.57:442][272]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.RightCenterRightCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.29.57:442][272]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.RightCenterRightCenter' 
+[2020.10.11-02.29.57:442][272]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.FrontCenterFrontCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.29.57:442][272]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.FrontCenterFrontCenter' 
+[2020.10.11-02.29.57:442][272]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.TopCenterTopCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.29.57:442][272]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.TopCenterTopCenter' 
+[2020.10.11-02.29.57:442][272]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.RightCenterRightCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.29.57:442][272]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.RightCenterRightCenter' 
+[2020.10.11-02.29.57:442][272]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.FrontCenterFrontCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.29.57:442][272]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.FrontCenterFrontCenter' 
+[2020.10.11-02.30.10:376][306]Cmd: DUPLICATE
+[2020.10.11-02.30.10:376][306]Cmd: ACTOR DUPLICATE
+[2020.10.11-02.30.14:430][627]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.TopCenterTopCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.30.14:430][627]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.TopCenterTopCenter' 
+[2020.10.11-02.30.14:430][627]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.RightCenterRightCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.30.14:430][627]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.RightCenterRightCenter' 
+[2020.10.11-02.30.14:430][627]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.FrontCenterFrontCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.30.14:430][627]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.FrontCenterFrontCenter' 
+[2020.10.11-02.30.14:430][627]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.TopCenterTopCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.30.14:430][627]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.TopCenterTopCenter' 
+[2020.10.11-02.30.14:430][627]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.RightCenterRightCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.30.14:430][627]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.RightCenterRightCenter' 
+[2020.10.11-02.30.14:430][627]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.FrontCenterFrontCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.30.14:430][627]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.FrontCenterFrontCenter' 
+[2020.10.11-02.30.32:541][ 76]Cmd: DUPLICATE
+[2020.10.11-02.30.32:541][ 76]Cmd: ACTOR DUPLICATE
+[2020.10.11-02.31.44:105][782]LogActorFactory: Actor Factory created Cylinder
+[2020.10.11-02.31.48:605][140]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.TopCenterTopCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.31.48:605][140]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.TopCenterTopCenter' 
+[2020.10.11-02.31.48:605][140]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.RightCenterRightCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.31.48:605][140]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.RightCenterRightCenter' 
+[2020.10.11-02.31.48:605][140]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.FrontCenterFrontCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.31.48:605][140]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.FrontCenterFrontCenter' 
+[2020.10.11-02.31.48:605][140]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.TopCenterTopCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.31.48:605][140]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.TopCenterTopCenter' 
+[2020.10.11-02.31.48:605][140]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.RightCenterRightCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.31.48:605][140]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.RightCenterRightCenter' 
+[2020.10.11-02.31.48:605][140]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.FrontCenterFrontCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.31.48:605][140]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.FrontCenterFrontCenter' 
+[2020.10.11-02.32.14:490][211]Cmd: DUPLICATE
+[2020.10.11-02.32.14:490][211]Cmd: ACTOR DUPLICATE
+[2020.10.11-02.32.19:167][581]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.TopCenterTopCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.32.19:168][581]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.TopCenterTopCenter' 
+[2020.10.11-02.32.19:168][581]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.RightCenterRightCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.32.19:168][581]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.RightCenterRightCenter' 
+[2020.10.11-02.32.19:168][581]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.FrontCenterFrontCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.32.19:168][581]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.FrontCenterFrontCenter' 
+[2020.10.11-02.32.19:168][581]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.TopCenterTopCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.32.19:168][581]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.TopCenterTopCenter' 
+[2020.10.11-02.32.19:168][581]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.RightCenterRightCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.32.19:168][581]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.RightCenterRightCenter' 
+[2020.10.11-02.32.19:168][581]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.FrontCenterFrontCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.32.19:168][581]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.FrontCenterFrontCenter' 
+[2020.10.11-02.33.08:619][533]LogActorFactory: Actor Factory created Cube
+[2020.10.11-02.33.10:915][714]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.TopCenterTopCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.33.10:916][714]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.TopCenterTopCenter' 
+[2020.10.11-02.33.10:916][714]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.RightCenterRightCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.33.10:916][714]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.RightCenterRightCenter' 
+[2020.10.11-02.33.10:916][714]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.FrontCenterFrontCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.33.10:916][714]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.FrontCenterFrontCenter' 
+[2020.10.11-02.33.10:916][714]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.TopCenterTopCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.33.10:916][714]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.TopCenterTopCenter' 
+[2020.10.11-02.33.10:916][714]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.RightCenterRightCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.33.10:916][714]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.RightCenterRightCenter' 
+[2020.10.11-02.33.10:916][714]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.FrontCenterFrontCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.33.10:916][714]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.FrontCenterFrontCenter' 
+[2020.10.11-02.35.23:005][839]LogActorFactory: Actor Factory created Cube
+[2020.10.11-02.35.25:568][ 40]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.TopCenterTopCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.35.25:568][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.TopCenterTopCenter' 
+[2020.10.11-02.35.25:568][ 40]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.RightCenterRightCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.35.25:568][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.RightCenterRightCenter' 
+[2020.10.11-02.35.25:568][ 40]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.FrontCenterFrontCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.35.25:568][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.FrontCenterFrontCenter' 
+[2020.10.11-02.35.25:568][ 40]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.TopCenterTopCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.35.25:568][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.TopCenterTopCenter' 
+[2020.10.11-02.35.25:568][ 40]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.RightCenterRightCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.35.25:568][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.RightCenterRightCenter' 
+[2020.10.11-02.35.25:568][ 40]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.FrontCenterFrontCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.35.25:568][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.FrontCenterFrontCenter' 
+[2020.10.11-02.38.05:041][651]LogActorFactory: Actor Factory created Cube
+[2020.10.11-02.38.10:452][ 80]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.TopCenterTopCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.38.10:452][ 80]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.TopCenterTopCenter' 
+[2020.10.11-02.38.10:452][ 80]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.RightCenterRightCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.38.10:452][ 80]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.RightCenterRightCenter' 
+[2020.10.11-02.38.10:452][ 80]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.FrontCenterFrontCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.38.10:452][ 80]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.FrontCenterFrontCenter' 
+[2020.10.11-02.38.10:452][ 80]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.TopCenterTopCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.38.10:452][ 80]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.TopCenterTopCenter' 
+[2020.10.11-02.38.10:452][ 80]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.RightCenterRightCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.38.10:452][ 80]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.RightCenterRightCenter' 
+[2020.10.11-02.38.10:452][ 80]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.FrontCenterFrontCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.38.10:452][ 80]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.FrontCenterFrontCenter' 
+[2020.10.11-02.40.35:575][463]Cmd: DUPLICATE
+[2020.10.11-02.40.35:575][463]Cmd: ACTOR DUPLICATE
+[2020.10.11-02.40.43:750][113]Cmd: DUPLICATE
+[2020.10.11-02.40.43:751][113]Cmd: ACTOR DUPLICATE
+[2020.10.11-02.40.47:562][414]Cmd: DUPLICATE
+[2020.10.11-02.40.47:563][414]Cmd: ACTOR DUPLICATE
+[2020.10.11-02.40.53:400][877]Cmd: DUPLICATE
+[2020.10.11-02.40.53:400][877]Cmd: ACTOR DUPLICATE
+[2020.10.11-02.41.02:050][565]Cmd: DUPLICATE
+[2020.10.11-02.41.02:050][565]Cmd: ACTOR DUPLICATE
+[2020.10.11-02.41.06:225][895]Cmd: DUPLICATE
+[2020.10.11-02.41.06:225][895]Cmd: ACTOR DUPLICATE
+[2020.10.11-02.42.26:636][316]Cmd: DELETE
+[2020.10.11-02.42.26:636][316]Cmd: ACTOR DELETE
+[2020.10.11-02.42.26:651][316]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.11-02.42.26:682][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.10.11-02.42.26:690][316]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2020.10.11-02.44.10:048][400]Cmd: DELETE
+[2020.10.11-02.44.10:048][400]Cmd: ACTOR DELETE
+[2020.10.11-02.44.10:052][400]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.11-02.44.10:067][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.10.11-02.44.10:070][400]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.10.11-02.44.15:824][856]Cmd: DUPLICATE
+[2020.10.11-02.44.15:824][856]Cmd: ACTOR DUPLICATE
+[2020.10.11-02.46.54:876][306]Cmd: DUPLICATE
+[2020.10.11-02.46.54:876][306]Cmd: ACTOR DUPLICATE
+[2020.10.11-02.47.32:037][273]Cmd: VI.ActorSnap 0
+[2020.10.11-02.47.32:038][273]VI.ActorSnap = "0"
+[2020.10.11-02.47.44:386][256]Cmd: VI.ActorSnap 1
+[2020.10.11-02.47.44:386][256]VI.ActorSnap = "1"
+[2020.10.11-02.49.34:167][998]LogActorFactory: Actor Factory created Cube
+[2020.10.11-02.49.48:092][108]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.TopCenterTopCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.49.48:092][108]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.TopCenterTopCenter' 
+[2020.10.11-02.49.48:092][108]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.RightCenterRightCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.49.48:092][108]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.RightCenterRightCenter' 
+[2020.10.11-02.49.48:092][108]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.FrontCenterFrontCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.49.48:092][108]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.FrontCenterFrontCenter' 
+[2020.10.11-02.49.48:092][108]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.TopCenterTopCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.49.48:092][108]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.TopCenterTopCenter' 
+[2020.10.11-02.49.48:092][108]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.RightCenterRightCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.49.48:092][108]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.RightCenterRightCenter' 
+[2020.10.11-02.49.48:092][108]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.FrontCenterFrontCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.49.48:092][108]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.FrontCenterFrontCenter' 
+[2020.10.11-02.50.38:212][ 22]Cmd: DUPLICATE
+[2020.10.11-02.50.38:212][ 22]Cmd: ACTOR DUPLICATE
+[2020.10.11-02.50.48:499][841]Cmd: DUPLICATE
+[2020.10.11-02.50.48:499][841]Cmd: ACTOR DUPLICATE
+[2020.10.11-02.50.51:736][ 96]Cmd: DUPLICATE
+[2020.10.11-02.50.51:736][ 96]Cmd: ACTOR DUPLICATE
+[2020.10.11-02.50.56:949][508]Cmd: DUPLICATE
+[2020.10.11-02.50.56:949][508]Cmd: ACTOR DUPLICATE
+[2020.10.11-02.51.13:099][790]Cmd: DUPLICATE
+[2020.10.11-02.51.13:099][790]Cmd: ACTOR DUPLICATE
+[2020.10.11-02.52.25:153][528]LogActorFactory: Actor Factory created Cube
+[2020.10.11-02.52.32:215][ 89]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.TopCenterTopCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.52.32:215][ 89]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.TopCenterTopCenter' 
+[2020.10.11-02.52.32:215][ 89]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.RightCenterRightCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.52.32:215][ 89]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.RightCenterRightCenter' 
+[2020.10.11-02.52.32:215][ 89]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.FrontCenterFrontCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.52.32:215][ 89]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.TranslationHandles.FrontCenterFrontCenter' 
+[2020.10.11-02.52.32:215][ 89]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.TopCenterTopCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.52.32:215][ 89]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.TopCenterTopCenter' 
+[2020.10.11-02.52.32:215][ 89]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.RightCenterRightCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.52.32:215][ 89]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.RightCenterRightCenter' 
+[2020.10.11-02.52.32:215][ 89]LogPhysics: Warning: Scale for /Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.FrontCenterFrontCenter has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.10.11-02.52.32:215][ 89]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/BarScene.BarScene:PersistentLevel.PivotTransformGizmo_1.PlaneTranslationHandles.FrontCenterFrontCenter' 
+[2020.10.11-02.54.41:286][ 85]Cmd: DUPLICATE
+[2020.10.11-02.54.41:286][ 85]Cmd: ACTOR DUPLICATE
+[2020.10.11-02.54.49:412][731]Cmd: DUPLICATE
+[2020.10.11-02.54.49:412][731]Cmd: ACTOR DUPLICATE
+[2020.10.11-02.54.52:736][993]Cmd: DUPLICATE
+[2020.10.11-02.54.52:736][993]Cmd: ACTOR DUPLICATE
+[2020.10.11-02.55.02:921][797]Cmd: DUPLICATE
+[2020.10.11-02.55.02:922][797]Cmd: ACTOR DUPLICATE
+[2020.10.11-02.55.10:911][432]Cmd: DUPLICATE
+[2020.10.11-02.55.10:911][432]Cmd: ACTOR DUPLICATE
+[2020.10.11-02.55.48:260][407]Cmd: DUPLICATE
+[2020.10.11-02.55.48:260][407]Cmd: ACTOR DUPLICATE
+[2020.10.11-02.56.30:510][684]Cmd: DUPLICATE
+[2020.10.11-02.56.30:511][684]Cmd: ACTOR DUPLICATE
+[2020.10.11-02.56.35:162][ 52]Cmd: DUPLICATE
+[2020.10.11-02.56.35:162][ 52]Cmd: ACTOR DUPLICATE
+[2020.10.11-02.56.43:424][709]Cmd: DUPLICATE
+[2020.10.11-02.56.43:424][709]Cmd: ACTOR DUPLICATE
+[2020.10.11-02.56.46:960][988]Cmd: DUPLICATE
+[2020.10.11-02.56.46:960][988]Cmd: ACTOR DUPLICATE
+[2020.10.11-02.56.50:123][237]Cmd: DUPLICATE
+[2020.10.11-02.56.50:123][237]Cmd: ACTOR DUPLICATE
+[2020.10.11-02.58.48:848][206]Cmd: VI.ActorSnap 0
+[2020.10.11-02.58.48:848][206]VI.ActorSnap = "0"
+[2020.10.11-02.59.42:598][483]Cmd: DUPLICATE
+[2020.10.11-02.59.42:598][483]Cmd: ACTOR DUPLICATE
+[2020.10.11-02.59.55:461][508]Cmd: DUPLICATE
+[2020.10.11-02.59.55:461][508]Cmd: ACTOR DUPLICATE
+[2020.10.11-03.00.09:774][648]Cmd: DUPLICATE
+[2020.10.11-03.00.09:774][648]Cmd: ACTOR DUPLICATE
+[2020.10.11-03.00.16:124][152]Cmd: DUPLICATE
+[2020.10.11-03.00.16:124][152]Cmd: ACTOR DUPLICATE
+[2020.10.11-03.00.42:585][261]Cmd: DUPLICATE
+[2020.10.11-03.00.42:585][261]Cmd: ACTOR DUPLICATE
+[2020.10.11-03.02.09:261][165]LogEngine: Changing dynamic resolution state.
+[2020.10.11-03.02.39:363][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.10.11-03.02.39:411][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/BarScene" FILE="../../../../../GitHub/SunshinePlanet/SunshinePlanet/Saved/Autosaves/Game/Levels/BarScene_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.10.11-03.02.39:447][684]LogSavePackage: Moving '../../../../../GitHub/SunshinePlanet/SunshinePlanet/Saved/BarScene_Auto28EC5DDB146B69D55FD5DEA928F7BDD7F.tmp' to '../../../../../GitHub/SunshinePlanet/SunshinePlanet/Saved/Autosaves/Game/Levels/BarScene_Auto2.umap'
+[2020.10.11-03.02.39:453][684]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/BarScene' took 0.119
+[2020.10.11-03.02.39:453][684]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.119
+[2020.10.11-03.12.39:571][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.10.11-03.12.39:579][814]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/BarScene' took 0.020
